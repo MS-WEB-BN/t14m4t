@@ -28,3 +28,7 @@ FTP | SSH | Telnet | SMTP | HTTP | POP3 | SMB | SNMP | LDAP | HTTPS | rexec | rl
 
 # Demo
 [![asciicast](https://asciinema.org/a/gXnpk0hY5lvetvfYS1aOIrySC.svg)](https://asciinema.org/a/gXnpk0hY5lvetvfYS1aOIrySC)
+
+# License
+
+The software is free to use, modify and distribute, as long as the credit is given to the creator (***n1x_ [MS-WEB]***)
