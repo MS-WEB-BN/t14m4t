@@ -8,7 +8,6 @@ Installation consists of cloning the repo and making **t14m4t** executable. [THC
 ```
 # git clone https://github.com/MS-WEB-BN/t14m4t/
 # sudo chmod +x t14m4t
-# t14m4t
 ```
 
 # Usage:
