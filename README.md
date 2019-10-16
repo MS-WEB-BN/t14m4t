@@ -4,7 +4,7 @@
 **t14m4t** is scanning an user defined target (or a document containing targets) for open ports of services supported by **t14m4t**, and then starting brute-forcing attack against the services running on discovered ports, using lists of most commonly used weak credentials.
 
 # Installation:
-Installation consists of cloning the repo, making **t14m4t** executable, and executing it.
+Installation consists of cloning the repo and making **t14m4t** executable. [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) and [Nmap Security Scanner](https://github.com/nmap/nmap) are required in order to run **t14m4t**.
 ```
 # git clone https://github.com/MS-WEB-BN/t14m4t/
 # sudo chmod +x t14m4t
