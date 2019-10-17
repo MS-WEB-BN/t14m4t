@@ -7,6 +7,7 @@
 Installation consists of cloning the repo and making **t14m4t** executable. [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) and [Nmap Security Scanner](https://github.com/nmap/nmap) are required in order to run **t14m4t**.
 ```
 # git clone https://github.com/MS-WEB-BN/t14m4t/
+# cd t14m4t
 # sudo chmod +x t14m4t
 ```
 
