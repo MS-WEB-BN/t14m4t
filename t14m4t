@@ -319,7 +319,7 @@ finished_brute() {
         if [ $# -eq 0 ]; then
                 echo -e "[${red}!${default}] Error: No arguments supplied."
                 echo -e "[${yellow}*${default}] Usage: ./t14m4t <target/file> <threads>"
-		echo -e "[${yellow}*${default}] Wizzard: ./t14m4t --wizzard"
+
 		exit
 	fi
 
