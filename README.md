@@ -44,4 +44,4 @@ Each of the scripts/tools/programs hosted here are made as a part of MS-WEBs cyb
 All pull requests removing such pauses, or parts of output are against the educational purpose, and will not be accepted.
 
 
-*quickbrute project is inspired by **t14m4t**, click [here](https://github.com/Shadow26Wolf/quickbrute) to check it out.
+*quickbrute project is inspired by **t14m4t**, click [here](https://github.com/Shadow26Wolf/quickbrute) to check it out.*
