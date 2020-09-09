@@ -42,3 +42,6 @@ Any actions and/or activities done by using **t14m4t** are solely your responsib
 Each of the scripts/tools/programs hosted here are made as a part of MS-WEBs cyber security courses, aimed toward beginners, therefore are purely educational and/or demonstrational, and are meant to stay that way, even if wider audience and real world usage are reached. All pauses present in code are there so that the user can read the output, so the action that is running is understood.
 
 All pull requests removing such pauses, or parts of output are against the educational purpose, and will not be accepted.
+
+
+*quickbrute project is inspired by **t14m4t**, click [here](https://github.com/Shadow26Wolf/quickbrute) to check it out.
