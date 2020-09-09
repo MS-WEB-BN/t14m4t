@@ -322,9 +322,13 @@ finished_brute() {
 
 		exit
 	fi
-
-	if [ ! -z "$2" ]; then
-                thread=$2
+        if [ ! -z "$2" ]; then
+                if [ "$2" -gt "64" ] || [ "$2" -lt "1" ]; then
+                        echo -e "[${red}!${default}] Maximum number of threads is 64!"
+                        exit
+                else
+                	thread=$2
+                fi
         fi
 
 	if [[ -f $1 ]]; then
