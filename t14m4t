@@ -11,6 +11,11 @@ splash() {
 	echo -e "       The Automatic Bruteforce Tool\n ${default}"
 }
 
+help() {
+	splash
+	echo -e "[${yellow}*${default}] Usage: ./${red}t14m4t${default} <target/file> <threads>"
+}
+
 report() {
 	mkdir Scans Scans/${1} &> /dev/null
 	mkdir Output Output/${1} &> /dev/null
@@ -320,6 +325,10 @@ finished_brute() {
                 echo -e "[${red}!${default}] Error: No arguments supplied."
                 echo -e "[${yellow}*${default}] Usage: ./t14m4t <target/file> <threads>"
 
+		exit
+	fi
+	if [ "$1" = "--help" ] || [ "$1" = "-h" ]; then
+		help
 		exit
 	fi
         if [ ! -z "$2" ]; then
