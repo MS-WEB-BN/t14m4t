@@ -12,6 +12,8 @@ Installation consists of cloning the repo, running a script that will install de
 # sudo chmod +x t14m4t
 ```
 
+**t14m4t** can also be installed from Demon App Store on [Demon Linux](https://www.demonlinux.com/index.php).
+
 # Usage:
 The only parameter **t14m4t** requires is the target identification. Target parameter can also be a file, where each target is separated by return. Number of threads if optional parameter, ranging from 1 to 64. If not defined, **t14m4t** runs the attack with 16 (default) threads.
 ```
