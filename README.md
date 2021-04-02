@@ -34,7 +34,7 @@ FTP | SSH | Telnet | SMTP | HTTP | POP3 | SMB | SNMP | LDAP | HTTPS | rexec | rl
 
 # License:
 
-The software is free to use, modify and distribute, as long as the credit is given to the creator (***n1x_ [MS-WEB]***).
+The software is free to use, modify and distribute, as long as the credit is given to the creator (***n1x_ [[MS-WEB]](https://www.ms-web.agency/)***).
 
 # Disclaimer:
 
@@ -42,7 +42,7 @@ Any actions and/or activities done by using **t14m4t** are solely your responsib
 
 # Contribution note:
 
-Each of the scripts/tools/programs hosted here are made as a part of MS-WEBs cyber security courses, aimed toward beginners, therefore are purely educational and/or demonstrational, and are meant to stay that way, even if wider audience and real world usage are reached. All pauses present in code are there so that the user can read the output, so the action that is running is understood.
+Each of the scripts/tools/programs hosted here are made as a part of [MS-WEB](https://www.ms-web.agency/)s cyber security courses, aimed toward beginners, therefore are purely educational and/or demonstrational, and are meant to stay that way, even if wider audience and real world usage are reached. All pauses present in code are there so that the user can read the output, so the action that is running is understood.
 
 All pull requests removing such pauses, or parts of output are against the educational purpose, and will not be accepted.
 
